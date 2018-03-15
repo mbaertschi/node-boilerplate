@@ -1,11 +1,11 @@
 # Boilerplate for nodejs npm package
 <!-- Dependency Status -->
-<a href="https://david-dm.org/mbaertschi/node-boilerplate">
-  <img src="https://david-dm.org/mbaertschi/node-boilerplate.svg" alt="Dependency Status" />
+<a href="https://david-dm.org/mbaertschi/npm-node-boilerplate">
+  <img src="https://david-dm.org/mbaertschi/npm-node-boilerplate.svg" alt="Dependency Status" />
 </a>
 <!-- devDependency Status -->
-<a href="https://david-dm.org/mbaertschi/node-boilerplate?type=dev">
-  <img src="https://david-dm.org/mbaertschi/node-boilerplate/dev-status.svg" alt="devDependency Status" />
+<a href="https://david-dm.org/mbaertschi/npm-node-boilerplate?type=dev">
+  <img src="https://david-dm.org/mbaertschi/npm-node-boilerplate/dev-status.svg" alt="devDependency Status" />
 </a>
 
 ## Tech-Stack
