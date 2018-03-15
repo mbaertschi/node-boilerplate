@@ -1,5 +1,12 @@
 # Boilerplate for nodejs npm package
-https://david-dm.org/mbaertschi/node-boilerplate.svg
+<!-- Dependency Status -->
+<a href="https://david-dm.org/mbaertschi/node-boilerplate">
+  <img src="https://david-dm.org/mbaertschi/node-boilerplate.svg" alt="Dependency Status" />
+</a>
+<!-- devDependency Status -->
+<a href="https://david-dm.org/mbaertschi/node-boilerplate?type=dev">
+  <img src="https://david-dm.org/mbaertschi/node-boilerplate/dev-status.svg" alt="devDependency Status" />
+</a>
 
 ## Tech-Stack
 - [nodemon](https://github.com/remy/nodemon) development mode
