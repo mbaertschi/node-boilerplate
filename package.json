@@ -1,5 +1,5 @@
 {
-  "name": "@mike89/node-boilerplate",
+  "name": "node-boilerplate",
   "version": "1.0.0",
   "description": "nodejs npm package boilerplate",
   "main": "./lib/index.js",
