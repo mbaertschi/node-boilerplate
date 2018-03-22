@@ -62,5 +62,6 @@ typings/
 docs
 
 # builds
+package-lock.json
 dist
 lib
