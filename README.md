@@ -1,4 +1,8 @@
 # Boilerplate for nodejs npm package
+<!-- Build Status -->
+<a href="https://travis-ci.org/mbaertschi/npm-node-boilerplate">
+  <img src="https://travis-ci.org/mbaertschi/npm-node-boilerplate.svg?branch=master">
+</a>
 <!-- Dependency Status -->
 <a href="https://david-dm.org/mbaertschi/npm-node-boilerplate">
   <img src="https://david-dm.org/mbaertschi/npm-node-boilerplate.svg" alt="Dependency Status" />
