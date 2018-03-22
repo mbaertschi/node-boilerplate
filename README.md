@@ -19,6 +19,7 @@
 - [npm-check](https://www.npmjs.com/package/npm-check) for dependencies check
 - [pre-commit](https://www.npmjs.com/package/pre-commit) for pre git commit hooks
 - [babel](https://babeljs.io/) to compile to es2015
+- [travis-ci](https://travis-ci.org/)
 
 ## Scripts
 ```bash
