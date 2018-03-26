@@ -6,6 +6,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+
+## [1.0.2] - 2018-03-26
+### Added
+- [node-confg](https://github.com/lorenwest/node-config) support
+- Usage information in README.md
+
+### Changed
+- Updated dependencies
+
+### Removed
+
+
 ## [1.0.1] - 2018-03-22
 ### Added
 - Basic npm package boilerplate
@@ -22,5 +34,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Removed
 
-[Unreleased]: https://github.com/mbaertschi/npm-node-boilerplate/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/mbaertschi/npm-node-boilerplate/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/mbaertschi/npm-node-boilerplate/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/mbaertschi/npm-node-boilerplate/compare/v1.0.0...v1.0.1
